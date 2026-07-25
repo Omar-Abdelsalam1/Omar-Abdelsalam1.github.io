@@ -315,6 +315,73 @@
   .abx-body strong{color:var(--accent);font-weight:600;}
   @keyframes abxin{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:none}}
   @media (prefers-reduced-motion:reduce){.abx-body{animation:none}details.abx summary .chev{transition:none}}
+
+  /* ============ PREMIUM THEME (advanced/professional) ============ */
+  :root{
+    --accent:#0f6f66; --accent-2:#16b3a4; --gold:#c79a3f;
+    --paper:#f5f7f6; --paper-2:#eaefee; --line:#e0e6e4; --line-2:#e9edeb;
+  }
+  body{background:var(--paper);}
+
+  /* Nav: transparent over hero, translucent dark once scrolled */
+  header.nav{background:transparent;border-bottom:1px solid transparent;}
+  header.nav.scrolled{background:rgba(8,20,21,.9);backdrop-filter:saturate(160%) blur(12px);border-bottom:1px solid rgba(255,255,255,.08);box-shadow:0 8px 30px rgba(0,0,0,.22);}
+  .brand{color:#eef3f2;}
+  .brand .b-text small{color:#9db2af;}
+  nav.links a{color:#e2edeb;}
+  nav.links a:hover{color:#fff;background:rgba(255,255,255,.10);}
+  nav.links a.cta{background:var(--accent-2);color:#04231f;}
+  nav.links a.cta:hover{background:#31d3c3;}
+  .menu-btn{border-color:rgba(255,255,255,.28);color:#eef3f2;}
+  @media (max-width:820px){ nav.links{background:rgba(8,20,21,.97);border-bottom-color:rgba(255,255,255,.08);} }
+
+  /* Hero: dark, layered, dramatic */
+  .hero{color:#eaf1ef;border-bottom:1px solid rgba(255,255,255,.06);
+    background:
+      radial-gradient(1100px 520px at 82% -12%, rgba(22,179,164,.20), transparent 60%),
+      radial-gradient(820px 520px at -5% 8%, rgba(12,60,55,.45), transparent 55%),
+      linear-gradient(155deg,#08322e 0%, #0a1c20 58%, #0a1417 100%);}
+  .hero::before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.6;
+    background-image:linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);
+    background-size:46px 46px;-webkit-mask-image:radial-gradient(circle at 60% 25%, #000, transparent 78%);mask-image:radial-gradient(circle at 60% 25%, #000, transparent 78%);}
+  .hero .wrap{position:relative;z-index:1;}
+  .hero .eyebrow{color:#7fd8cb;}
+  .hero .eyebrow::before{background:#7fd8cb;opacity:.6;}
+  .hero h1{color:#f4f8f7;}
+  .hero h1 .accentword{font-style:italic;color:transparent;background:linear-gradient(92deg,#35d6c5,#bfe08f);-webkit-background-clip:text;background-clip:text;}
+  .hero .role{color:#dbe8e5;}
+  .hero .affil{color:#9fb4b1;}
+  .hero .affil .dot{background:var(--gold);}
+  .btn.primary{background:var(--accent-2);color:#04231f;font-weight:600;}
+  .btn.primary:hover{background:#31d3c3;transform:translateY(-1px);}
+  .btn.ghost{border-color:rgba(255,255,255,.28);color:#eaf3f1;background:transparent;}
+  .btn.ghost:hover{background:rgba(255,255,255,.08);border-color:#35d6c5;color:#fff;}
+  .hero .social-row a{background:rgba(255,255,255,.05);border-color:rgba(255,255,255,.16);color:#b9cbc8;}
+  .hero .social-row a:hover{background:rgba(255,255,255,.12);border-color:#35d6c5;color:#fff;}
+  .medallion{box-shadow:0 26px 64px rgba(0,0,0,.5),0 0 0 1px rgba(255,255,255,.08),0 0 0 14px rgba(22,179,164,.07);}
+  .medallion::after{border-color:rgba(255,255,255,.16);}
+  .badge{background:rgba(9,20,21,.72);border-color:rgba(255,255,255,.2);color:#e7efee;backdrop-filter:blur(4px);}
+  .badge b{color:#35d6c5;}
+  .stats{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);backdrop-filter:blur(6px);}
+  .stats .stat{background:rgba(255,255,255,.015);}
+  .stats .num{color:#35d6c5;}
+  .stats .lbl{color:#a7bbb8;}
+
+  /* Section rhythm */
+  .band{background:var(--paper-2);border-top:1px solid var(--line);border-bottom:1px solid var(--line);}
+  .sec-head h2{color:#12201f;}
+
+  /* Publication cards: gradient accent bar on hover */
+  .pub{position:relative;overflow:hidden;}
+  .pub::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:linear-gradient(180deg,var(--accent),var(--accent-2));transform:scaleY(0);transform-origin:top;transition:transform .25s ease;}
+  .pub:hover::before{transform:scaleY(1);}
+
+  /* Contact + footer bookend the dark hero */
+  .contact-card{background:linear-gradient(150deg,#0c3b37,#08181c);}
+  footer{background:linear-gradient(180deg,#0a1c20,#081417);border-top:1px solid rgba(255,255,255,.06);color:#a7bbb8;}
+  footer .foot-inner span{color:#a7bbb8;}
+  footer a{color:#c2d2cf;}
+  footer a:hover{color:#fff;}
 </style>
 </head>
 <body>
