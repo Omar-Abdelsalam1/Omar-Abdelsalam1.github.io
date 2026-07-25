@@ -431,6 +431,12 @@
     .hero-aura{animation:none;}
     .scrollcue svg{animation:none;}
   }
+
+  /* standalone Researcher badge */
+  .badge{display:inline-flex;align-items:center;gap:.5rem;text-transform:uppercase;letter-spacing:.14em;font-size:.7rem;font-weight:600;color:#eaf3f1;padding:.44rem 1.05rem;}
+  .badge .bdot{width:7px;height:7px;border-radius:50%;background:#35d6c5;box-shadow:0 0 0 3px rgba(53,214,197,.22);animation:bpulse 2.4s ease-in-out infinite;}
+  @keyframes bpulse{0%,100%{box-shadow:0 0 0 3px rgba(53,214,197,.22);}50%{box-shadow:0 0 0 7px rgba(53,214,197,.04);}}
+  @media (prefers-reduced-motion:reduce){.badge .bdot{animation:none;}}
 </style>
 </head>
 <body>
@@ -482,7 +488,7 @@
       <div class="portrait" data-reveal>
         <div class="medallion" role="img" aria-label="Monogram: Omar Abdelsalam">
           <span class="init">OA</span>
-          <div class="badge">Researcher &middot; <b>15 publications</b></div>
+          <div class="badge"><span class="bdot" aria-hidden="true"></span>Researcher</div>
         </div>
       </div>
     </div>
