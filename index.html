@@ -509,13 +509,12 @@
   .scroll-btn.next{right:-14px;}
   @media (max-width:640px){.scroll-btn{display:none;}}
 
-  /* floating portrait with radiating aura */
+  /* floating portrait with soft radiating glow */
   .medallion{position:relative;z-index:2;animation:floaty 6s ease-in-out infinite;}
-  .portrait::before,.portrait::after{content:"";position:absolute;top:50%;left:50%;width:100%;height:100%;border-radius:50%;border:2px solid rgba(22,179,164,.55);transform:translate(-50%,-50%) scale(.9);z-index:0;pointer-events:none;animation:radiate 3.4s ease-out infinite;}
-  .portrait::after{animation-delay:1.7s;}
+  .portrait::before{content:"";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:158%;height:158%;border-radius:50%;z-index:0;pointer-events:none;background:radial-gradient(circle, rgba(212,163,74,.60) 0%, rgba(212,163,74,.30) 40%, rgba(212,163,74,.08) 60%, transparent 72%);filter:blur(28px);animation:auraGlow 5s ease-in-out infinite;}
   @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-13px)}}
-  @keyframes radiate{0%{opacity:.7;transform:translate(-50%,-50%) scale(.9)}70%{opacity:.18}100%{opacity:0;transform:translate(-50%,-50%) scale(1.6)}}
-  @media (prefers-reduced-motion:reduce){.medallion{animation:none}.portrait::before,.portrait::after{animation:none;opacity:0}}
+  @keyframes auraGlow{0%,100%{opacity:.72;transform:translate(-50%,-50%) scale(1)}50%{opacity:1;transform:translate(-50%,-50%) scale(1.05)}}
+  @media (prefers-reduced-motion:reduce){.medallion{animation:none}.portrait::before{animation:none}}
 </style>
 </head>
 <body>
