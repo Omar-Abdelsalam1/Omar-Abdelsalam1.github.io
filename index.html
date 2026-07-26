@@ -508,6 +508,16 @@
   .scroll-btn.prev{left:-14px;}
   .scroll-btn.next{right:-14px;}
   @media (max-width:640px){.scroll-btn{display:none;}}
+
+  /* floating portrait with pulsing aura */
+  .medallion{position:relative;z-index:1;animation:floaty 6s ease-in-out infinite;}
+  .portrait::before{content:"";position:absolute;top:48%;left:50%;transform:translate(-50%,-50%);
+    width:120%;height:120%;border-radius:50%;z-index:0;pointer-events:none;
+    background:radial-gradient(circle, rgba(22,179,164,.40), rgba(22,179,164,.12) 46%, transparent 68%);
+    filter:blur(26px);animation:auraPulse 5.5s ease-in-out infinite;}
+  @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+  @keyframes auraPulse{0%,100%{opacity:.6;transform:translate(-50%,-50%) scale(1)}50%{opacity:1;transform:translate(-50%,-50%) scale(1.06)}}
+  @media (prefers-reduced-motion:reduce){.medallion{animation:none}.portrait::before{animation:none}}
 </style>
 </head>
 <body>
