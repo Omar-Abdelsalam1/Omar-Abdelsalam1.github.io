@@ -511,7 +511,7 @@
 
   /* floating portrait with soft radiating glow */
   .medallion{position:relative;z-index:2;animation:floaty 6s ease-in-out infinite;}
-  .portrait::before{content:"";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:158%;height:158%;border-radius:50%;z-index:0;pointer-events:none;background:radial-gradient(circle, rgba(212,163,74,.60) 0%, rgba(212,163,74,.30) 40%, rgba(212,163,74,.08) 60%, transparent 72%);filter:blur(28px);animation:auraGlow 5s ease-in-out infinite;}
+  .portrait::before{content:"";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:158%;height:158%;border-radius:50%;z-index:0;pointer-events:none;background:radial-gradient(circle, rgba(53,214,197,.60) 0%, rgba(53,214,197,.30) 40%, rgba(53,214,197,.08) 60%, transparent 72%);filter:blur(28px);animation:auraGlow 5s ease-in-out infinite;}
   @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-13px)}}
   @keyframes auraGlow{0%,100%{opacity:.72;transform:translate(-50%,-50%) scale(1)}50%{opacity:1;transform:translate(-50%,-50%) scale(1.05)}}
   @media (prefers-reduced-motion:reduce){.medallion{animation:none}.portrait::before{animation:none}}
