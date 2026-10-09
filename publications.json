@@ -1,0 +1,170 @@
+{
+  "orcid": "0009-0005-1609-1036",
+  "updated": "2026-10-09",
+  "works": [
+    {
+      "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (rTMS) in Alzheimer's disease: An Updated Meta-analysis of 35 Randomized Sham-controlled Trials",
+      "y": 2026,
+      "v": "Neuromodulation: Technology at the Neural Interface",
+      "doi": "10.1016/j.neurom.2026.09.008",
+      "url": "",
+      "a": "OK Abdelsalam, N Mosad, ME Abouelmagd, M Messak, NA Almosilhy, et al.",
+      "kind": "art",
+      "first": true
+    },
+    {
+      "t": "Efficacy and Safety of Plerixafor in High-grade Glioma: A Systematic Review (P7-6.005)",
+      "y": 2026,
+      "v": "Neurology",
+      "doi": "10.1212/wnl.0000000000217169",
+      "url": "",
+      "a": "OK Abdelsalam, A Alnajjar, Y Arafeh, MA Zanaty, MM Sarhan, et al.",
+      "kind": "abs",
+      "first": true
+    },
+    {
+      "t": "Efficacy of Probiotics Supplementations for Management of Migraine: A Systematic Review and Meta-analysis. (P1-15.016)",
+      "y": 2026,
+      "v": "Neurology",
+      "doi": "10.1212/wnl.0000000000215502",
+      "url": "",
+      "a": "DK Ewis, A Almarfadi, O Abdelsalam, M Ali, A Abunamoos, et al.",
+      "kind": "abs",
+      "first": false
+    },
+    {
+      "t": "Efficacy of Transcranial Direct Current Stimulation for Chronic Lower Back Pain: An Updated Systematic Review and Meta-analysis (P10-14.007)",
+      "y": 2026,
+      "v": "Neurology",
+      "doi": "10.1212/wnl.0000000000216062",
+      "url": "",
+      "a": "O Abdelsalam, H Khelifa, FK Alfahmi, M AbuZarifa, H Hamza, et al.",
+      "kind": "abs",
+      "first": true
+    },
+    {
+      "t": "Rates of Discontinuation and Nonpublication of Ischemic Stroke Trials Involving Intravenous Thrombolysis: A Cross-sectional Analysis (P8-5.006)",
+      "y": 2026,
+      "v": "Neurology",
+      "doi": "10.1212/wnl.0000000000212997",
+      "url": "",
+      "a": "M AbuZarifa, A Alnajjar, O Abdelsalam, KMH Mohamed, MB AbuZarifa",
+      "kind": "abs",
+      "first": false
+    },
+    {
+      "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (\n                    <scp>rTMS</scp>\n                    ) in Peripheral Neuropathic Pain: A\n                    <scp>GRADE</scp>\n                    ‐Assessed Meta‐Analysis of Randomized Sham‐Controlled Trials",
+      "y": 2026,
+      "v": "Pain Practice",
+      "doi": "10.1111/papr.70169",
+      "url": "",
+      "a": "OK Abdelsalam, RG Mohamed, MAT Mahmoud, AIA Dawoud, RSS Labib, et al.",
+      "kind": "art",
+      "first": true,
+      "abs": "<strong>ABSTRACT.</strong> \n                  \n                    <strong>Background.</strong> \n                    <p>Peripheral neuropathic pain (PNP) results from damage to peripheral nerves, leading to intractable or exaggerated pain. Repetitive transcranial magnetic stimulation (rTMS) is a non‐invasive therapeutic method that modulates cortical neuronal activity and can promote endogenous opioid release, with a potential analgesic effect. This meta‐analysis evaluates the efficacy and safety of rTMS use in PNP patients.</p>\n                  \n                  \n                    <strong>Methods.</strong> \n                    <p>We systematically searched PubMed, Web of Science, Scopus, and the Cochrane Library for randomized controlled trials (RCTs) evaluating rTMS in PNP. The primary outcome was pain intensity. Statistical analysis was performed using Review Manager version 5.4.1. Risk of bias was assessed using the Cochrane RoB 2 tool, and a random‐effects model was used to compute pooled estimates, expressed as standardized mean differences (SMD), mean differences (MD), and risk ratios (RR) with 95% confidence intervals (CI).</p>\n                  \n                  \n                    <strong>Results.</strong> \n                    <p>\n                      Nine studies with 435 patients were included. rTMS significantly improved pain intensity (SMD = −1.11, 95% CI: [−1.72, −0.49];\n                      p\n                       = 0.0004) and achieved a 30% reduction in pain (RR = 3.31, 95% CI: [0.98, 11.20];\n                      p\n                       = 0.05). Improvements in sleep quality (SMD = −1.02,\n                      p\n                       = 0.26) and Patient Global Impression of Change were not statistically significant (RR = 1.70,\n                      p\n                       = 0.13). Safety analysis showed no significant increase in adverse events such as headache (RR = 1.32,\n                      p\n                       = 0.1), dizziness, pain at the stimulation site, sleep disturbances, or cognitive complaints.\n                    </p>\n                  \n                  \n                    <strong>Conclusion.</strong> \n                    <p>rTMS significantly reduces pain in PNP patients without major safety concerns. While findings support its clinical utility, high heterogeneity and limited long‐term data suggest further standardized trials are warranted.</p>\n                  \n                  \n                    <strong>Prospero Registration.</strong> \n                    <p>CRD42024628350</p>"
+    },
+    {
+      "t": "P344 Robot-assisted endoscopic submucosal dissection in gastrointestinal lesions: a systematic review and meta-analysis",
+      "y": 2026,
+      "v": "E-Posters",
+      "doi": "10.1136/gutjnl-2026-bsg.454",
+      "url": "",
+      "a": "A Mahmoud Genidy, A Awad, O Khaled Abdelsalam, B Mohamed Hamed, N Mahmoud Ibrahim, et al.",
+      "kind": "abs",
+      "first": false
+    },
+    {
+      "t": "Adjunctive Remotely Supervised tDCS in Multiple Sclerosis: A GRADE-Assessed Meta-analysis of Sham-Controlled Trials on Cognitive, Fatigue, Mobility, and Quality-of-Life Outcomes",
+      "y": 2026,
+      "v": "ASIDE Internal Medicine",
+      "doi": "10.71079/ASIDE.IM.042526637",
+      "url": "",
+      "a": "OK Abdelsalam, M Almasalma, AN Shelbaya, A Raja Albishti, MH Khalil, et al.",
+      "kind": "art",
+      "first": true,
+      "abs": "<p>Background: Multiple sclerosis (MS) is an immune-mediated disorder characterized by demyelination within the central nervous system, resulting in fatigue, pain, cognitive dysfunction, and motor impairment. Remotely supervised transcranial direct current stimulation (RS‑tDCS) is a noninvasive, low-cost, home-based intervention that modulates neuronal excitability and enhances neural network function, potentially benefiting individuals with MS. This meta-analysis aimed to evaluate the efficacy of RS‑tDCS in MS.\nMethods: A systematic search was conducted in PubMed, Web of Science, Scopus, and the Cochrane Library for randomized controlled trials (RCTs) evaluating RS‑tDCS in MS. The primary outcome was information‑processing speed. Statistical analyses were performed using R software (version 4.5.0) and a random‑effects model to calculate pooled standardized mean differences (SMDs) and mean differences (MDs) with 95% confidence intervals (CIs). Risk of bias was assessed using the Cochrane ROB‑2 tool.\nResults: Five RCTs, most featuring co-interventions alongside RS-tDCS in both study arms and one specifically targeting MS patients with cannabis use disorder, including 291 participants, were analyzed. Active RS‑tDCS did not significantly improve information‑processing speed (SMD = 0.20; 95% CI: –0.06 to 0.45; P = 0.13, n studies: 4). No significant effects were observed for secondary outcomes.\nConclusion: Evidence from five heterogeneous RCTs, predominantly featuring co-interventions, shows no clear benefit of RS-tDCS for MS cognitive or functional outcomes (very low to low certainty). This highlights substantial uncertainty; larger standalone trials are required.</p>"
+    },
+    {
+      "t": "Robot-assisted endoscopic submucosal dissection in gastrointestinal lesions: A systematic review and meta-analysis",
+      "y": 2026,
+      "v": "Clinics and Research in Hepatology and Gastroenterology",
+      "doi": "10.1016/j.clinre.2025.102752",
+      "url": "",
+      "a": "AM Genidy, A Awad, OK Abdelsalam, BM Hamed, NM Ibrahim, et al.",
+      "kind": "art",
+      "first": false
+    },
+    {
+      "t": "Comparative safety of cholinesterase inhibitors and memantine for dementia: a protocol for a network meta-analysis of randomized controlled trials",
+      "y": 2025,
+      "v": "Systematic Reviews",
+      "doi": "10.1186/s13643-025-02961-6",
+      "url": "",
+      "a": "ME Abouelmagd, NA Almosilhy, HA Makhlouf, AK Hassan, ASA Osman, et al.",
+      "kind": "art",
+      "first": false,
+      "abs": "<strong>Abstract.</strong> \n                  \n                    <strong>Background.</strong> \n                    <p>Dementia is a growing public health concern, affecting over 55 million people worldwide, with Alzheimer’s disease (AD) being the most prevalent cause. Cholinesterase inhibitors (ChEIs) and memantine remain the mainstay pharmacological treatment for AD and other dementias, despite their modest benefits and potential adverse effects. The safety profiles of these medications, particularly at different doses and formulations, remain inadequately explored, necessitating a comprehensive evaluation.</p>\n                  \n                  \n                    <strong>Methods.</strong> \n                    <p>This systematic review and network meta-analysis (NMA) will assess the safety of ChEIs (donepezil, galantamine, rivastigmine) and memantine in dementia treatment. We will include randomized controlled trials (RCTs) with ≥ 3 months of follow-up, evaluating adverse events (AEs), serious adverse events (SAEs), and treatment discontinuation rates. A comprehensive literature search will be conducted in PubMed, Scopus, Web of Science, and Cochrane Library, with additional searches in Google Scholar and reference lists of included studies.</p>\n                    <p>\n                      Data extraction will follow a standardized approach, and study quality will be assessed using the Cochrane risk-of-bias tool-2. A Frequentist or Bayesian NMA framework will be used to compare safety profiles, with heterogeneity assessed using the I\n                      2\n                      test.\n                    </p>\n                  \n                  \n                    <strong>Discussion.</strong> \n                    <p>By addressing gaps in prior NMAs, this study aims to provide an in-depth evaluation of safety outcomes associated with different ChEI and memantine doses and formulations across various dementia types. The findings will support clinicians in making informed treatment decisions and guide future research and policy development for dementia management.</p>\n                  \n                  \n                    <strong>Systematic review registration.</strong> \n                    <p>PROSPERO (CRD42025642902).</p>"
+    },
+    {
+      "t": "HL-1124: Is Radiotherapy Still Needed in Bulky Advanced Hodgkin Lymphoma? A Systematic Review and Meta-Analysis",
+      "y": 2025,
+      "v": "Clinical Lymphoma Myeloma and Leukemia",
+      "doi": "10.1016/s2152-2650(25)02213-x",
+      "url": "",
+      "a": "BA Zoubi, O Abdelsalam, Y Al-Mashaqbah, HM Radi, B Khater, et al.",
+      "kind": "abs",
+      "first": false
+    },
+    {
+      "t": "ECTRIMS 2025 Paper Poster Session 1 and 2",
+      "y": 2025,
+      "v": "Multiple Sclerosis Journal",
+      "doi": "10.1177/13524585251358344",
+      "url": "",
+      "a": "",
+      "kind": "abs",
+      "first": false
+    },
+    {
+      "t": "Efficacy and safety of remote electrical neuromodulation in migraine: a comprehensive systematic review and meta-analysis",
+      "y": 2025,
+      "v": "BMC Neurology",
+      "doi": "10.1186/s12883-025-04291-5",
+      "url": "",
+      "a": "AZ Alnajjar, MMM Mustafa, OK Abdelsalam, I Sharabati, AK Hassan, et al.",
+      "kind": "art",
+      "first": false
+    },
+    {
+      "t": "543 Efficacy and Safety of Early Chest Tube Removal with High-Output Drainage Versus Routine Removal After Selective Pulmonary Resection: A Systematic Review and Meta-Analysis",
+      "y": 2025,
+      "v": "British Journal of Surgery",
+      "doi": "10.1093/bjs/znaf128.665",
+      "url": "",
+      "a": "S Abualhaj, B Al Zoubi, A Aburumman, A Lotfy, O Abdelsalam, et al.",
+      "kind": "abs",
+      "first": false,
+      "abs": "<strong>Abstract.</strong> \n               \n                  <strong>Aim.</strong> \n                  <p>Early chest tubes removal after pulmonary resection has been suggested to shorten postoperative hospital stays (PHS) while maintaining patient safety. However, the evidence of its efficacy and safety is inconclusive.</p>\n               \n               \n                  <strong>Method.</strong> \n                  <p>A systematic review and meta-analysis were conducted, synthesizing evidence from observational studies and randomized controlled trials obtained from PubMed, Cochrane Library, Scopus, and Web of Science from their inception to October 2024. We reported dichotomous outcomes using risk ratios (RR) and continuous outcomes using standardized mean differences (SMD), both with 95% confidence intervals (CI).</p>\n               \n               \n                  <strong>Results.</strong> \n                  <p>A total of 8 studies with 1,932 patients satisfied eligibility criteria. There were no statistically significant differences between early chest tube removal and conventional care across the evaluated outcomes. For PHS, a standardized mean difference (SMD) of (-0.55 [-1.19, 0.09] days, P = 0.093) was observed, suggesting a trend favoring early management, though not statistically significant. There were also no significant differences in the rate of thoracentesis (RR: 1.54, [0.62, 3.81], P = 0.355), re-accumulation of pleural fluid (RR: 1.56, [0.57, 4.31], P = 0.391), and all-cause mortality (RR: 1.40, [0.58, 3.38], P = 0.449). Other complications, including pneumonia, pneumothorax, prolonged air leak, and subcutaneous emphysema, did not show statistically significant differences.</p>\n               \n               \n                  <strong>Conclusions.</strong> \n                  <p>Our study showed that early removal of the chest tube after pulmonary resection does not result in a statistically significant reduction in the length of PHS. However, it appears to be a safe approach with no increase in the rate of complications compared with conventional care.</p>"
+    },
+    {
+      "t": "Efficacy and Safety of Arimoclomol in Amyotrophic Lateral Sclerosis: A Systematic Review and Meta-analysis (P3-11.032)",
+      "y": 2025,
+      "v": "Neurology",
+      "doi": "10.1212/wnl.0000000000210615",
+      "url": "",
+      "a": "Y Arafeh, OK Abdelsalam, FASA Osman, NA Almosilhy, SMB Khaled, et al.",
+      "kind": "abs",
+      "first": false
+    },
+    {
+      "t": "Efficacy and Safety of Remote Electrical Neuromodulation for Migraine Treatment: A Systematic Review and Meta-Analysis (P6-12.007)",
+      "y": 2025,
+      "v": "Neurology",
+      "doi": "10.1212/wnl.0000000000211493",
+      "url": "",
+      "a": "MMM Mustafa, A Zakria, OK Abdelsalam, I sharabati, AK Hassan, et al.",
+      "kind": "abs",
+      "first": false
+    }
+  ]
+}
