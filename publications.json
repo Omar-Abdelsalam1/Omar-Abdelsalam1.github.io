@@ -1,6 +1,6 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "works": [
     {
       "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (rTMS) in Alzheimer's disease: An Updated Meta-analysis of 35 Randomized Sham-controlled Trials",
@@ -28,9 +28,8 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000215502",
       "url": "",
-      "a": "DK Ewis, A Almarfadi, O Abdelsalam, M Ali, A Abunamoos, et al.",
-      "kind": "abs",
-      "first": false
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Efficacy of Transcranial Direct Current Stimulation for Chronic Lower Back Pain: An Updated Systematic Review and Meta-analysis (P10-14.007)",
@@ -38,9 +37,8 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000216062",
       "url": "",
-      "a": "O Abdelsalam, H Khelifa, FK Alfahmi, M AbuZarifa, H Hamza, et al.",
-      "kind": "abs",
-      "first": true
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Rates of Discontinuation and Nonpublication of Ischemic Stroke Trials Involving Intravenous Thrombolysis: A Cross-sectional Analysis (P8-5.006)",
@@ -53,15 +51,13 @@
       "first": false
     },
     {
-      "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (\n                    <scp>rTMS</scp>\n                    ) in Peripheral Neuropathic Pain: A\n                    <scp>GRADE</scp>\n                    ‐Assessed Meta‐Analysis of Randomized Sham‐Controlled Trials",
+      "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (rTMS) in Peripheral Neuropathic Pain: A GRADE‐Assessed Meta‐Analysis of Randomized Sham‐Controlled Trials",
       "y": 2026,
       "v": "Pain Practice",
       "doi": "10.1111/papr.70169",
       "url": "",
-      "a": "OK Abdelsalam, RG Mohamed, MAT Mahmoud, AIA Dawoud, RSS Labib, et al.",
-      "kind": "art",
-      "first": true,
-      "abs": "<strong>ABSTRACT.</strong> \n                  \n                    <strong>Background.</strong> \n                    <p>Peripheral neuropathic pain (PNP) results from damage to peripheral nerves, leading to intractable or exaggerated pain. Repetitive transcranial magnetic stimulation (rTMS) is a non‐invasive therapeutic method that modulates cortical neuronal activity and can promote endogenous opioid release, with a potential analgesic effect. This meta‐analysis evaluates the efficacy and safety of rTMS use in PNP patients.</p>\n                  \n                  \n                    <strong>Methods.</strong> \n                    <p>We systematically searched PubMed, Web of Science, Scopus, and the Cochrane Library for randomized controlled trials (RCTs) evaluating rTMS in PNP. The primary outcome was pain intensity. Statistical analysis was performed using Review Manager version 5.4.1. Risk of bias was assessed using the Cochrane RoB 2 tool, and a random‐effects model was used to compute pooled estimates, expressed as standardized mean differences (SMD), mean differences (MD), and risk ratios (RR) with 95% confidence intervals (CI).</p>\n                  \n                  \n                    <strong>Results.</strong> \n                    <p>\n                      Nine studies with 435 patients were included. rTMS significantly improved pain intensity (SMD = −1.11, 95% CI: [−1.72, −0.49];\n                      p\n                       = 0.0004) and achieved a 30% reduction in pain (RR = 3.31, 95% CI: [0.98, 11.20];\n                      p\n                       = 0.05). Improvements in sleep quality (SMD = −1.02,\n                      p\n                       = 0.26) and Patient Global Impression of Change were not statistically significant (RR = 1.70,\n                      p\n                       = 0.13). Safety analysis showed no significant increase in adverse events such as headache (RR = 1.32,\n                      p\n                       = 0.1), dizziness, pain at the stimulation site, sleep disturbances, or cognitive complaints.\n                    </p>\n                  \n                  \n                    <strong>Conclusion.</strong> \n                    <p>rTMS significantly reduces pain in PNP patients without major safety concerns. While findings support its clinical utility, high heterogeneity and limited long‐term data suggest further standardized trials are warranted.</p>\n                  \n                  \n                    <strong>Prospero Registration.</strong> \n                    <p>CRD42024628350</p>"
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "P344 Robot-assisted endoscopic submucosal dissection in gastrointestinal lesions: a systematic review and meta-analysis",
