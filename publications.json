@@ -1,7 +1,18 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "works": [
+    {
+      "t": "Comparative efficacy of bowel preparation strategies in colorectal surgery: A network meta-analysis of randomized controlled trials",
+      "y": 2026,
+      "v": "World Journal of Gastrointestinal Surgery",
+      "doi": "10.4240/wjgs.124318",
+      "url": "",
+      "a": "M AbuZarifa, M Hijazy, AZ Alnajjar, OK Abdelsalam, A Ajjur, et al.",
+      "kind": "art",
+      "first": false,
+      "abs": "<p>BACKGROUND</p>\n                  <p>Colorectal surgeries are commonly performed procedures, yet they are associated with a considerable risk of complications such as surgical site infections (SSIs) and anastomotic leaks. Preoperative approaches, including mechanical bowel preparation (MBP) and oral antibiotics (OAB), aim to reduce these risks.</p>\n                  <p>AIM</p>\n                  <p>To comprehensively evaluate and compare the efficacy of various bowel preparation approaches in reducing postoperative complications following colorectal surgery.</p>\n                  <p>METHODS</p>\n                  <p>A thorough literature search was conducted in PubMed, Cochrane Library, Web of Science, and Scopus up to April 28, 2025. A frequentist network meta-analysis with a random-effects model was used to calculate relative risks with 95% confidence intervals (CIs), and interventions were ranked using P  scores. Confidence in Network Meta-Analysis assessment was used to evaluate the confidence in the evidence. Primary outcomes included incisional SSI and organ space SSI. Secondary outcomes encompassed anastomotic leakage, postoperative ileus, and Clavien-Dindo I-II complications.</p>\n                  <p>RESULTS</p>\n                  <p>Our analysis, conducted on 38 studies, showed that the combination of MBP and OAB considerably reduced incisional SSI with a relative risk of 0.53 (95%CI: 0.29-0.99, P  = 0.04) and organ-space SSI with a relative risk of 0.62 (95%CI: 0.39-0.99, P  = 0.04), demonstrating a statistically significant effect. In the secondary outcomes, OAB-containing regimens showed superiority to the other treatments, and they also had the highest P  score.</p>\n                  <p>CONCLUSION</p>\n                  <p>Even though the combination of MBP and OAB is strongly supported as the preferred strategy for preventing infectious postoperative complications, these findings are not only in line with current recommendations but also provide a foundation for additional research that will investigate their relevance to a larger variety of surgical procedures.</p>"
+    },
     {
       "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (rTMS) in Alzheimer's disease: An Updated Meta-analysis of 35 Randomized Sham-controlled Trials",
       "y": 2026,
