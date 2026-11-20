@@ -1,6 +1,6 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "works": [
     {
       "t": "Comparative efficacy of bowel preparation strategies in colorectal surgery: A network meta-analysis of randomized controlled trials",
@@ -122,9 +122,8 @@
       "v": "Clinical Lymphoma Myeloma and Leukemia",
       "doi": "10.1016/s2152-2650(25)02213-x",
       "url": "",
-      "a": "BA Zoubi, O Abdelsalam, Y Al-Mashaqbah, HM Radi, B Khater, et al.",
-      "kind": "abs",
-      "first": false
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "P863-Efficacy and Safety of Early High-Efficacy Therapy vs Escalation Strategy in Multiple Sclerosis: A Systematic Review and Meta-analysis",
@@ -150,8 +149,10 @@
       "v": "British Journal of Surgery",
       "doi": "10.1093/bjs/znaf128.665",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "S Abualhaj, B Al Zoubi, A Aburumman, A Lotfy, O Abdelsalam, et al.",
+      "kind": "abs",
+      "first": false,
+      "abs": "<strong>Abstract.</strong> \n               \n                  <strong>Aim.</strong> \n                  <p>Early chest tubes removal after pulmonary resection has been suggested to shorten postoperative hospital stays (PHS) while maintaining patient safety. However, the evidence of its efficacy and safety is inconclusive.</p>\n               \n               \n                  <strong>Method.</strong> \n                  <p>A systematic review and meta-analysis were conducted, synthesizing evidence from observational studies and randomized controlled trials obtained from PubMed, Cochrane Library, Scopus, and Web of Science from their inception to October 2024. We reported dichotomous outcomes using risk ratios (RR) and continuous outcomes using standardized mean differences (SMD), both with 95% confidence intervals (CI).</p>\n               \n               \n                  <strong>Results.</strong> \n                  <p>A total of 8 studies with 1,932 patients satisfied eligibility criteria. There were no statistically significant differences between early chest tube removal and conventional care across the evaluated outcomes. For PHS, a standardized mean difference (SMD) of (-0.55 [-1.19, 0.09] days, P = 0.093) was observed, suggesting a trend favoring early management, though not statistically significant. There were also no significant differences in the rate of thoracentesis (RR: 1.54, [0.62, 3.81], P = 0.355), re-accumulation of pleural fluid (RR: 1.56, [0.57, 4.31], P = 0.391), and all-cause mortality (RR: 1.40, [0.58, 3.38], P = 0.449). Other complications, including pneumonia, pneumothorax, prolonged air leak, and subcutaneous emphysema, did not show statistically significant differences.</p>\n               \n               \n                  <strong>Conclusions.</strong> \n                  <p>Our study showed that early removal of the chest tube after pulmonary resection does not result in a statistically significant reduction in the length of PHS. However, it appears to be a safe approach with no increase in the rate of complications compared with conventional care.</p>"
     },
     {
       "t": "Efficacy and Safety of Arimoclomol in Amyotrophic Lateral Sclerosis: A Systematic Review and Meta-analysis (P3-11.032)",
