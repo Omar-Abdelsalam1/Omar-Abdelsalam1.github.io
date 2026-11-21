@@ -1,6 +1,6 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "works": [
     {
       "t": "Comparative efficacy of bowel preparation strategies in colorectal surgery: A network meta-analysis of randomized controlled trials",
@@ -19,9 +19,8 @@
       "v": "Neuromodulation: Technology at the Neural Interface",
       "doi": "10.1016/j.neurom.2026.09.008",
       "url": "",
-      "a": "OK Abdelsalam, N Mosad, ME Abouelmagd, M Messak, NA Almosilhy, et al.",
-      "kind": "art",
-      "first": true
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "Efficacy and Safety of Plerixafor in High-grade Glioma: A Systematic Review (P7-6.005)",
@@ -39,9 +38,8 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000215502",
       "url": "",
-      "a": "DK Ewis, A Almarfadi, O Abdelsalam, M Ali, A Abunamoos, et al.",
-      "kind": "abs",
-      "first": false
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Efficacy of Transcranial Direct Current Stimulation for Chronic Lower Back Pain: An Updated Systematic Review and Meta-analysis (P10-14.007)",
@@ -49,9 +47,8 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000216062",
       "url": "",
-      "a": "O Abdelsalam, H Khelifa, FK Alfahmi, M AbuZarifa, H Hamza, et al.",
-      "kind": "abs",
-      "first": true
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Rates of Discontinuation and Nonpublication of Ischemic Stroke Trials Involving Intravenous Thrombolysis: A Cross-sectional Analysis (P8-5.006)",
@@ -80,9 +77,8 @@
       "v": "E-Posters",
       "doi": "10.1136/gutjnl-2026-bsg.454",
       "url": "",
-      "a": "A Mahmoud Genidy, A Awad, O Khaled Abdelsalam, B Mohamed Hamed, N Mahmoud Ibrahim, et al.",
-      "kind": "abs",
-      "first": false
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Adjunctive Remotely Supervised tDCS in Multiple Sclerosis: A GRADE-Assessed Meta-analysis of Sham-Controlled Trials on Cognitive, Fatigue, Mobility, and Quality-of-Life Outcomes",
@@ -111,10 +107,8 @@
       "v": "Systematic Reviews",
       "doi": "10.1186/s13643-025-02961-6",
       "url": "",
-      "a": "ME Abouelmagd, NA Almosilhy, HA Makhlouf, AK Hassan, ASA Osman, et al.",
-      "kind": "art",
-      "first": false,
-      "abs": "<strong>Abstract.</strong> \n                  \n                    <strong>Background.</strong> \n                    <p>Dementia is a growing public health concern, affecting over 55 million people worldwide, with Alzheimer’s disease (AD) being the most prevalent cause. Cholinesterase inhibitors (ChEIs) and memantine remain the mainstay pharmacological treatment for AD and other dementias, despite their modest benefits and potential adverse effects. The safety profiles of these medications, particularly at different doses and formulations, remain inadequately explored, necessitating a comprehensive evaluation.</p>\n                  \n                  \n                    <strong>Methods.</strong> \n                    <p>This systematic review and network meta-analysis (NMA) will assess the safety of ChEIs (donepezil, galantamine, rivastigmine) and memantine in dementia treatment. We will include randomized controlled trials (RCTs) with ≥ 3 months of follow-up, evaluating adverse events (AEs), serious adverse events (SAEs), and treatment discontinuation rates. A comprehensive literature search will be conducted in PubMed, Scopus, Web of Science, and Cochrane Library, with additional searches in Google Scholar and reference lists of included studies.</p>\n                    <p>\n                      Data extraction will follow a standardized approach, and study quality will be assessed using the Cochrane risk-of-bias tool-2. A Frequentist or Bayesian NMA framework will be used to compare safety profiles, with heterogeneity assessed using the I\n                      2\n                      test.\n                    </p>\n                  \n                  \n                    <strong>Discussion.</strong> \n                    <p>By addressing gaps in prior NMAs, this study aims to provide an in-depth evaluation of safety outcomes associated with different ChEI and memantine doses and formulations across various dementia types. The findings will support clinicians in making informed treatment decisions and guide future research and policy development for dementia management.</p>\n                  \n                  \n                    <strong>Systematic review registration.</strong> \n                    <p>PROSPERO (CRD42025642902).</p>"
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "HL-1124: Is Radiotherapy Still Needed in Bulky Advanced Hodgkin Lymphoma? A Systematic Review and Meta-Analysis",
