@@ -1,6 +1,6 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "works": [
     {
       "t": "Comparative efficacy of bowel preparation strategies in colorectal surgery: A network meta-analysis of randomized controlled trials",
@@ -19,8 +19,9 @@
       "v": "Neuromodulation: Technology at the Neural Interface",
       "doi": "10.1016/j.neurom.2026.09.008",
       "url": "",
-      "a": "",
-      "kind": "art"
+      "a": "OK Abdelsalam, N Mosad, ME Abouelmagd, M Messak, NA Almosilhy, et al.",
+      "kind": "art",
+      "first": true
     },
     {
       "t": "Efficacy and Safety of Plerixafor in High-grade Glioma: A Systematic Review (P7-6.005)",
@@ -38,8 +39,9 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000215502",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "DK Ewis, A Almarfadi, O Abdelsalam, M Ali, A Abunamoos, et al.",
+      "kind": "abs",
+      "first": false
     },
     {
       "t": "Efficacy of Transcranial Direct Current Stimulation for Chronic Lower Back Pain: An Updated Systematic Review and Meta-analysis (P10-14.007)",
@@ -56,9 +58,8 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000212997",
       "url": "",
-      "a": "M AbuZarifa, A Alnajjar, O Abdelsalam, KMH Mohamed, MB AbuZarifa",
-      "kind": "abs",
-      "first": false
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (\n                    <scp>rTMS</scp>\n                    ) in Peripheral Neuropathic Pain: A\n                    <scp>GRADE</scp>\n                    ‐Assessed Meta‐Analysis of Randomized Sham‐Controlled Trials",
@@ -77,8 +78,9 @@
       "v": "E-Posters",
       "doi": "10.1136/gutjnl-2026-bsg.454",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "A Mahmoud Genidy, A Awad, O Khaled Abdelsalam, B Mohamed Hamed, N Mahmoud Ibrahim, et al.",
+      "kind": "abs",
+      "first": false
     },
     {
       "t": "Adjunctive Remotely Supervised tDCS in Multiple Sclerosis: A GRADE-Assessed Meta-analysis of Sham-Controlled Trials on Cognitive, Fatigue, Mobility, and Quality-of-Life Outcomes",
@@ -92,14 +94,13 @@
       "abs": "<p>Background: Multiple sclerosis (MS) is an immune-mediated disorder characterized by demyelination within the central nervous system, resulting in fatigue, pain, cognitive dysfunction, and motor impairment. Remotely supervised transcranial direct current stimulation (RS‑tDCS) is a noninvasive, low-cost, home-based intervention that modulates neuronal excitability and enhances neural network function, potentially benefiting individuals with MS. This meta-analysis aimed to evaluate the efficacy of RS‑tDCS in MS.\nMethods: A systematic search was conducted in PubMed, Web of Science, Scopus, and the Cochrane Library for randomized controlled trials (RCTs) evaluating RS‑tDCS in MS. The primary outcome was information‑processing speed. Statistical analyses were performed using R software (version 4.5.0) and a random‑effects model to calculate pooled standardized mean differences (SMDs) and mean differences (MDs) with 95% confidence intervals (CIs). Risk of bias was assessed using the Cochrane ROB‑2 tool.\nResults: Five RCTs, most featuring co-interventions alongside RS-tDCS in both study arms and one specifically targeting MS patients with cannabis use disorder, including 291 participants, were analyzed. Active RS‑tDCS did not significantly improve information‑processing speed (SMD = 0.20; 95% CI: –0.06 to 0.45; P = 0.13, n studies: 4). No significant effects were observed for secondary outcomes.\nConclusion: Evidence from five heterogeneous RCTs, predominantly featuring co-interventions, shows no clear benefit of RS-tDCS for MS cognitive or functional outcomes (very low to low certainty). This highlights substantial uncertainty; larger standalone trials are required.</p>"
     },
     {
-      "t": "Robot-assisted endoscopic submucosal dissection in gastrointestinal lesions: A systematic review and meta-analysis",
-      "y": 2026,
+      "t": "Robot-assisted Endoscopic Submucosal Dissection in Gastrointestinal Lesions: A Systematic Review and Meta-Analysis",
+      "y": 2025,
       "v": "Clinics and Research in Hepatology and Gastroenterology",
       "doi": "10.1016/j.clinre.2025.102752",
       "url": "",
-      "a": "AM Genidy, A Awad, OK Abdelsalam, BM Hamed, NM Ibrahim, et al.",
-      "kind": "art",
-      "first": false
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "Comparative safety of cholinesterase inhibitors and memantine for dementia: a protocol for a network meta-analysis of randomized controlled trials",
@@ -116,17 +117,19 @@
       "v": "Clinical Lymphoma Myeloma and Leukemia",
       "doi": "10.1016/s2152-2650(25)02213-x",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "BA Zoubi, O Abdelsalam, Y Al-Mashaqbah, HM Radi, B Khater, et al.",
+      "kind": "abs",
+      "first": false
     },
     {
-      "t": "P863-Efficacy and Safety of Early High-Efficacy Therapy vs Escalation Strategy in Multiple Sclerosis: A Systematic Review and Meta-analysis",
+      "t": "ECTRIMS 2025 Paper Poster Session 1 and 2",
       "y": 2025,
       "v": "Multiple Sclerosis Journal",
       "doi": "10.1177/13524585251358344",
       "url": "",
       "a": "",
-      "kind": "abs"
+      "kind": "abs",
+      "first": false
     },
     {
       "t": "Efficacy and safety of remote electrical neuromodulation in migraine: a comprehensive systematic review and meta-analysis",
@@ -143,10 +146,8 @@
       "v": "British Journal of Surgery",
       "doi": "10.1093/bjs/znaf128.665",
       "url": "",
-      "a": "S Abualhaj, B Al Zoubi, A Aburumman, A Lotfy, O Abdelsalam, et al.",
-      "kind": "abs",
-      "first": false,
-      "abs": "<strong>Abstract.</strong> \n               \n                  <strong>Aim.</strong> \n                  <p>Early chest tubes removal after pulmonary resection has been suggested to shorten postoperative hospital stays (PHS) while maintaining patient safety. However, the evidence of its efficacy and safety is inconclusive.</p>\n               \n               \n                  <strong>Method.</strong> \n                  <p>A systematic review and meta-analysis were conducted, synthesizing evidence from observational studies and randomized controlled trials obtained from PubMed, Cochrane Library, Scopus, and Web of Science from their inception to October 2024. We reported dichotomous outcomes using risk ratios (RR) and continuous outcomes using standardized mean differences (SMD), both with 95% confidence intervals (CI).</p>\n               \n               \n                  <strong>Results.</strong> \n                  <p>A total of 8 studies with 1,932 patients satisfied eligibility criteria. There were no statistically significant differences between early chest tube removal and conventional care across the evaluated outcomes. For PHS, a standardized mean difference (SMD) of (-0.55 [-1.19, 0.09] days, P = 0.093) was observed, suggesting a trend favoring early management, though not statistically significant. There were also no significant differences in the rate of thoracentesis (RR: 1.54, [0.62, 3.81], P = 0.355), re-accumulation of pleural fluid (RR: 1.56, [0.57, 4.31], P = 0.391), and all-cause mortality (RR: 1.40, [0.58, 3.38], P = 0.449). Other complications, including pneumonia, pneumothorax, prolonged air leak, and subcutaneous emphysema, did not show statistically significant differences.</p>\n               \n               \n                  <strong>Conclusions.</strong> \n                  <p>Our study showed that early removal of the chest tube after pulmonary resection does not result in a statistically significant reduction in the length of PHS. However, it appears to be a safe approach with no increase in the rate of complications compared with conventional care.</p>"
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Efficacy and Safety of Arimoclomol in Amyotrophic Lateral Sclerosis: A Systematic Review and Meta-analysis (P3-11.032)",
@@ -154,8 +155,9 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000210615",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "Y Arafeh, OK Abdelsalam, FASA Osman, NA Almosilhy, SMB Khaled, et al.",
+      "kind": "abs",
+      "first": false
     },
     {
       "t": "Efficacy and Safety of Remote Electrical Neuromodulation for Migraine Treatment: A Systematic Review and Meta-Analysis (P6-12.007)",
