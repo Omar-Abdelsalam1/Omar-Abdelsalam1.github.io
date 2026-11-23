@@ -1,6 +1,6 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "works": [
     {
       "t": "Comparative efficacy of bowel preparation strategies in colorectal surgery: A network meta-analysis of randomized controlled trials",
@@ -49,8 +49,9 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000216062",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "O Abdelsalam, H Khelifa, FK Alfahmi, M AbuZarifa, H Hamza, et al.",
+      "kind": "abs",
+      "first": true
     },
     {
       "t": "Rates of Discontinuation and Nonpublication of Ischemic Stroke Trials Involving Intravenous Thrombolysis: A Cross-sectional Analysis (P8-5.006)",
@@ -58,8 +59,9 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000212997",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "M AbuZarifa, A Alnajjar, O Abdelsalam, KMH Mohamed, MB AbuZarifa",
+      "kind": "abs",
+      "first": false
     },
     {
       "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (\n                    <scp>rTMS</scp>\n                    ) in Peripheral Neuropathic Pain: A\n                    <scp>GRADE</scp>\n                    ‐Assessed Meta‐Analysis of Randomized Sham‐Controlled Trials",
@@ -78,9 +80,8 @@
       "v": "E-Posters",
       "doi": "10.1136/gutjnl-2026-bsg.454",
       "url": "",
-      "a": "A Mahmoud Genidy, A Awad, O Khaled Abdelsalam, B Mohamed Hamed, N Mahmoud Ibrahim, et al.",
-      "kind": "abs",
-      "first": false
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Adjunctive Remotely Supervised tDCS in Multiple Sclerosis: A GRADE-Assessed Meta-analysis of Sham-Controlled Trials on Cognitive, Fatigue, Mobility, and Quality-of-Life Outcomes",
@@ -94,13 +95,14 @@
       "abs": "<p>Background: Multiple sclerosis (MS) is an immune-mediated disorder characterized by demyelination within the central nervous system, resulting in fatigue, pain, cognitive dysfunction, and motor impairment. Remotely supervised transcranial direct current stimulation (RS‑tDCS) is a noninvasive, low-cost, home-based intervention that modulates neuronal excitability and enhances neural network function, potentially benefiting individuals with MS. This meta-analysis aimed to evaluate the efficacy of RS‑tDCS in MS.\nMethods: A systematic search was conducted in PubMed, Web of Science, Scopus, and the Cochrane Library for randomized controlled trials (RCTs) evaluating RS‑tDCS in MS. The primary outcome was information‑processing speed. Statistical analyses were performed using R software (version 4.5.0) and a random‑effects model to calculate pooled standardized mean differences (SMDs) and mean differences (MDs) with 95% confidence intervals (CIs). Risk of bias was assessed using the Cochrane ROB‑2 tool.\nResults: Five RCTs, most featuring co-interventions alongside RS-tDCS in both study arms and one specifically targeting MS patients with cannabis use disorder, including 291 participants, were analyzed. Active RS‑tDCS did not significantly improve information‑processing speed (SMD = 0.20; 95% CI: –0.06 to 0.45; P = 0.13, n studies: 4). No significant effects were observed for secondary outcomes.\nConclusion: Evidence from five heterogeneous RCTs, predominantly featuring co-interventions, shows no clear benefit of RS-tDCS for MS cognitive or functional outcomes (very low to low certainty). This highlights substantial uncertainty; larger standalone trials are required.</p>"
     },
     {
-      "t": "Robot-assisted Endoscopic Submucosal Dissection in Gastrointestinal Lesions: A Systematic Review and Meta-Analysis",
-      "y": 2025,
+      "t": "Robot-assisted endoscopic submucosal dissection in gastrointestinal lesions: A systematic review and meta-analysis",
+      "y": 2026,
       "v": "Clinics and Research in Hepatology and Gastroenterology",
       "doi": "10.1016/j.clinre.2025.102752",
       "url": "",
-      "a": "",
-      "kind": "art"
+      "a": "AM Genidy, A Awad, OK Abdelsalam, BM Hamed, NM Ibrahim, et al.",
+      "kind": "art",
+      "first": false
     },
     {
       "t": "Comparative safety of cholinesterase inhibitors and memantine for dementia: a protocol for a network meta-analysis of randomized controlled trials",
@@ -122,14 +124,13 @@
       "first": false
     },
     {
-      "t": "ECTRIMS 2025 Paper Poster Session 1 and 2",
+      "t": "P863-Efficacy and Safety of Early High-Efficacy Therapy vs Escalation Strategy in Multiple Sclerosis: A Systematic Review and Meta-analysis",
       "y": 2025,
       "v": "Multiple Sclerosis Journal",
       "doi": "10.1177/13524585251358344",
       "url": "",
       "a": "",
-      "kind": "abs",
-      "first": false
+      "kind": "abs"
     },
     {
       "t": "Efficacy and safety of remote electrical neuromodulation in migraine: a comprehensive systematic review and meta-analysis",
@@ -155,9 +156,8 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000210615",
       "url": "",
-      "a": "Y Arafeh, OK Abdelsalam, FASA Osman, NA Almosilhy, SMB Khaled, et al.",
-      "kind": "abs",
-      "first": false
+      "a": "",
+      "kind": "abs"
     },
     {
       "t": "Efficacy and Safety of Remote Electrical Neuromodulation for Migraine Treatment: A Systematic Review and Meta-Analysis (P6-12.007)",
