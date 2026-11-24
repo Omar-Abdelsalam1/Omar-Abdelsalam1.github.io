@@ -1,6 +1,6 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "works": [
     {
       "t": "Comparative efficacy of bowel preparation strategies in colorectal surgery: A network meta-analysis of randomized controlled trials",
@@ -80,8 +80,9 @@
       "v": "E-Posters",
       "doi": "10.1136/gutjnl-2026-bsg.454",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "A Mahmoud Genidy, A Awad, O Khaled Abdelsalam, B Mohamed Hamed, N Mahmoud Ibrahim, et al.",
+      "kind": "abs",
+      "first": false
     },
     {
       "t": "Adjunctive Remotely Supervised tDCS in Multiple Sclerosis: A GRADE-Assessed Meta-analysis of Sham-Controlled Trials on Cognitive, Fatigue, Mobility, and Quality-of-Life Outcomes",
@@ -138,8 +139,9 @@
       "v": "BMC Neurology",
       "doi": "10.1186/s12883-025-04291-5",
       "url": "",
-      "a": "",
-      "kind": "art"
+      "a": "AZ Alnajjar, MMM Mustafa, OK Abdelsalam, I Sharabati, AK Hassan, et al.",
+      "kind": "art",
+      "first": false
     },
     {
       "t": "543 Efficacy and Safety of Early Chest Tube Removal with High-Output Drainage Versus Routine Removal After Selective Pulmonary Resection: A Systematic Review and Meta-Analysis",
