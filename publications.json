@@ -1,6 +1,6 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "works": [
     {
       "t": "Comparative efficacy of bowel preparation strategies in colorectal surgery: A network meta-analysis of randomized controlled trials",
@@ -96,14 +96,13 @@
       "abs": "<p>Background: Multiple sclerosis (MS) is an immune-mediated disorder characterized by demyelination within the central nervous system, resulting in fatigue, pain, cognitive dysfunction, and motor impairment. Remotely supervised transcranial direct current stimulation (RS‑tDCS) is a noninvasive, low-cost, home-based intervention that modulates neuronal excitability and enhances neural network function, potentially benefiting individuals with MS. This meta-analysis aimed to evaluate the efficacy of RS‑tDCS in MS.\nMethods: A systematic search was conducted in PubMed, Web of Science, Scopus, and the Cochrane Library for randomized controlled trials (RCTs) evaluating RS‑tDCS in MS. The primary outcome was information‑processing speed. Statistical analyses were performed using R software (version 4.5.0) and a random‑effects model to calculate pooled standardized mean differences (SMDs) and mean differences (MDs) with 95% confidence intervals (CIs). Risk of bias was assessed using the Cochrane ROB‑2 tool.\nResults: Five RCTs, most featuring co-interventions alongside RS-tDCS in both study arms and one specifically targeting MS patients with cannabis use disorder, including 291 participants, were analyzed. Active RS‑tDCS did not significantly improve information‑processing speed (SMD = 0.20; 95% CI: –0.06 to 0.45; P = 0.13, n studies: 4). No significant effects were observed for secondary outcomes.\nConclusion: Evidence from five heterogeneous RCTs, predominantly featuring co-interventions, shows no clear benefit of RS-tDCS for MS cognitive or functional outcomes (very low to low certainty). This highlights substantial uncertainty; larger standalone trials are required.</p>"
     },
     {
-      "t": "Robot-assisted endoscopic submucosal dissection in gastrointestinal lesions: A systematic review and meta-analysis",
-      "y": 2026,
+      "t": "Robot-assisted Endoscopic Submucosal Dissection in Gastrointestinal Lesions: A Systematic Review and Meta-Analysis",
+      "y": 2025,
       "v": "Clinics and Research in Hepatology and Gastroenterology",
       "doi": "10.1016/j.clinre.2025.102752",
       "url": "",
-      "a": "AM Genidy, A Awad, OK Abdelsalam, BM Hamed, NM Ibrahim, et al.",
-      "kind": "art",
-      "first": false
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "Comparative safety of cholinesterase inhibitors and memantine for dementia: a protocol for a network meta-analysis of randomized controlled trials",
@@ -111,8 +110,10 @@
       "v": "Systematic Reviews",
       "doi": "10.1186/s13643-025-02961-6",
       "url": "",
-      "a": "",
-      "kind": "art"
+      "a": "ME Abouelmagd, NA Almosilhy, HA Makhlouf, AK Hassan, ASA Osman, et al.",
+      "kind": "art",
+      "first": false,
+      "abs": "<strong>Abstract.</strong> \n                  \n                    <strong>Background.</strong> \n                    <p>Dementia is a growing public health concern, affecting over 55 million people worldwide, with Alzheimer’s disease (AD) being the most prevalent cause. Cholinesterase inhibitors (ChEIs) and memantine remain the mainstay pharmacological treatment for AD and other dementias, despite their modest benefits and potential adverse effects. The safety profiles of these medications, particularly at different doses and formulations, remain inadequately explored, necessitating a comprehensive evaluation.</p>\n                  \n                  \n                    <strong>Methods.</strong> \n                    <p>This systematic review and network meta-analysis (NMA) will assess the safety of ChEIs (donepezil, galantamine, rivastigmine) and memantine in dementia treatment. We will include randomized controlled trials (RCTs) with ≥ 3 months of follow-up, evaluating adverse events (AEs), serious adverse events (SAEs), and treatment discontinuation rates. A comprehensive literature search will be conducted in PubMed, Scopus, Web of Science, and Cochrane Library, with additional searches in Google Scholar and reference lists of included studies.</p>\n                    <p>\n                      Data extraction will follow a standardized approach, and study quality will be assessed using the Cochrane risk-of-bias tool-2. A Frequentist or Bayesian NMA framework will be used to compare safety profiles, with heterogeneity assessed using the I\n                      2\n                      test.\n                    </p>\n                  \n                  \n                    <strong>Discussion.</strong> \n                    <p>By addressing gaps in prior NMAs, this study aims to provide an in-depth evaluation of safety outcomes associated with different ChEI and memantine doses and formulations across various dementia types. The findings will support clinicians in making informed treatment decisions and guide future research and policy development for dementia management.</p>\n                  \n                  \n                    <strong>Systematic review registration.</strong> \n                    <p>PROSPERO (CRD42025642902).</p>"
     },
     {
       "t": "HL-1124: Is Radiotherapy Still Needed in Bulky Advanced Hodgkin Lymphoma? A Systematic Review and Meta-Analysis",
@@ -167,8 +168,9 @@
       "v": "Neurology",
       "doi": "10.1212/wnl.0000000000211493",
       "url": "",
-      "a": "",
-      "kind": "abs"
+      "a": "MMM Mustafa, A Zakria, OK Abdelsalam, I sharabati, AK Hassan, et al.",
+      "kind": "abs",
+      "first": false
     }
   ]
 }
