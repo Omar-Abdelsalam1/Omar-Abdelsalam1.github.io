@@ -1,6 +1,6 @@
 {
   "orcid": "0009-0005-1609-1036",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "works": [
     {
       "t": "Comparative efficacy of bowel preparation strategies in colorectal surgery: A network meta-analysis of randomized controlled trials",
@@ -64,15 +64,13 @@
       "first": false
     },
     {
-      "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (\n                    <scp>rTMS</scp>\n                    ) in Peripheral Neuropathic Pain: A\n                    <scp>GRADE</scp>\n                    ‐Assessed Meta‐Analysis of Randomized Sham‐Controlled Trials",
+      "t": "Efficacy and Safety of Repetitive Transcranial Magnetic Stimulation (rTMS) in Peripheral Neuropathic Pain: A GRADE‐Assessed Meta‐Analysis of Randomized Sham‐Controlled Trials",
       "y": 2026,
       "v": "Pain Practice",
       "doi": "10.1111/papr.70169",
       "url": "",
-      "a": "OK Abdelsalam, RG Mohamed, MAT Mahmoud, AIA Dawoud, RSS Labib, et al.",
-      "kind": "art",
-      "first": true,
-      "abs": "<strong>ABSTRACT.</strong> \n                  \n                    <strong>Background.</strong> \n                    <p>Peripheral neuropathic pain (PNP) results from damage to peripheral nerves, leading to intractable or exaggerated pain. Repetitive transcranial magnetic stimulation (rTMS) is a non‐invasive therapeutic method that modulates cortical neuronal activity and can promote endogenous opioid release, with a potential analgesic effect. This meta‐analysis evaluates the efficacy and safety of rTMS use in PNP patients.</p>\n                  \n                  \n                    <strong>Methods.</strong> \n                    <p>We systematically searched PubMed, Web of Science, Scopus, and the Cochrane Library for randomized controlled trials (RCTs) evaluating rTMS in PNP. The primary outcome was pain intensity. Statistical analysis was performed using Review Manager version 5.4.1. Risk of bias was assessed using the Cochrane RoB 2 tool, and a random‐effects model was used to compute pooled estimates, expressed as standardized mean differences (SMD), mean differences (MD), and risk ratios (RR) with 95% confidence intervals (CI).</p>\n                  \n                  \n                    <strong>Results.</strong> \n                    <p>\n                      Nine studies with 435 patients were included. rTMS significantly improved pain intensity (SMD = −1.11, 95% CI: [−1.72, −0.49];\n                      p\n                       = 0.0004) and achieved a 30% reduction in pain (RR = 3.31, 95% CI: [0.98, 11.20];\n                      p\n                       = 0.05). Improvements in sleep quality (SMD = −1.02,\n                      p\n                       = 0.26) and Patient Global Impression of Change were not statistically significant (RR = 1.70,\n                      p\n                       = 0.13). Safety analysis showed no significant increase in adverse events such as headache (RR = 1.32,\n                      p\n                       = 0.1), dizziness, pain at the stimulation site, sleep disturbances, or cognitive complaints.\n                    </p>\n                  \n                  \n                    <strong>Conclusion.</strong> \n                    <p>rTMS significantly reduces pain in PNP patients without major safety concerns. While findings support its clinical utility, high heterogeneity and limited long‐term data suggest further standardized trials are warranted.</p>\n                  \n                  \n                    <strong>Prospero Registration.</strong> \n                    <p>CRD42024628350</p>"
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "P344 Robot-assisted endoscopic submucosal dissection in gastrointestinal lesions: a systematic review and meta-analysis",
@@ -90,20 +88,17 @@
       "v": "ASIDE Internal Medicine",
       "doi": "10.71079/ASIDE.IM.042526637",
       "url": "",
-      "a": "OK Abdelsalam, M Almasalma, AN Shelbaya, A Raja Albishti, MH Khalil, et al.",
-      "kind": "art",
-      "first": true,
-      "abs": "<p>Background: Multiple sclerosis (MS) is an immune-mediated disorder characterized by demyelination within the central nervous system, resulting in fatigue, pain, cognitive dysfunction, and motor impairment. Remotely supervised transcranial direct current stimulation (RS‑tDCS) is a noninvasive, low-cost, home-based intervention that modulates neuronal excitability and enhances neural network function, potentially benefiting individuals with MS. This meta-analysis aimed to evaluate the efficacy of RS‑tDCS in MS.\nMethods: A systematic search was conducted in PubMed, Web of Science, Scopus, and the Cochrane Library for randomized controlled trials (RCTs) evaluating RS‑tDCS in MS. The primary outcome was information‑processing speed. Statistical analyses were performed using R software (version 4.5.0) and a random‑effects model to calculate pooled standardized mean differences (SMDs) and mean differences (MDs) with 95% confidence intervals (CIs). Risk of bias was assessed using the Cochrane ROB‑2 tool.\nResults: Five RCTs, most featuring co-interventions alongside RS-tDCS in both study arms and one specifically targeting MS patients with cannabis use disorder, including 291 participants, were analyzed. Active RS‑tDCS did not significantly improve information‑processing speed (SMD = 0.20; 95% CI: –0.06 to 0.45; P = 0.13, n studies: 4). No significant effects were observed for secondary outcomes.\nConclusion: Evidence from five heterogeneous RCTs, predominantly featuring co-interventions, shows no clear benefit of RS-tDCS for MS cognitive or functional outcomes (very low to low certainty). This highlights substantial uncertainty; larger standalone trials are required.</p>"
+      "a": "",
+      "kind": "art"
     },
     {
-      "t": "Robot-assisted endoscopic submucosal dissection in gastrointestinal lesions: A systematic review and meta-analysis",
-      "y": 2026,
+      "t": "Robot-assisted Endoscopic Submucosal Dissection in Gastrointestinal Lesions: A Systematic Review and Meta-Analysis",
+      "y": 2025,
       "v": "Clinics and Research in Hepatology and Gastroenterology",
       "doi": "10.1016/j.clinre.2025.102752",
       "url": "",
-      "a": "AM Genidy, A Awad, OK Abdelsalam, BM Hamed, NM Ibrahim, et al.",
-      "kind": "art",
-      "first": false
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "Comparative safety of cholinesterase inhibitors and memantine for dementia: a protocol for a network meta-analysis of randomized controlled trials",
@@ -111,10 +106,8 @@
       "v": "Systematic Reviews",
       "doi": "10.1186/s13643-025-02961-6",
       "url": "",
-      "a": "ME Abouelmagd, NA Almosilhy, HA Makhlouf, AK Hassan, ASA Osman, et al.",
-      "kind": "art",
-      "first": false,
-      "abs": "<strong>Abstract.</strong> \n                  \n                    <strong>Background.</strong> \n                    <p>Dementia is a growing public health concern, affecting over 55 million people worldwide, with Alzheimer’s disease (AD) being the most prevalent cause. Cholinesterase inhibitors (ChEIs) and memantine remain the mainstay pharmacological treatment for AD and other dementias, despite their modest benefits and potential adverse effects. The safety profiles of these medications, particularly at different doses and formulations, remain inadequately explored, necessitating a comprehensive evaluation.</p>\n                  \n                  \n                    <strong>Methods.</strong> \n                    <p>This systematic review and network meta-analysis (NMA) will assess the safety of ChEIs (donepezil, galantamine, rivastigmine) and memantine in dementia treatment. We will include randomized controlled trials (RCTs) with ≥ 3 months of follow-up, evaluating adverse events (AEs), serious adverse events (SAEs), and treatment discontinuation rates. A comprehensive literature search will be conducted in PubMed, Scopus, Web of Science, and Cochrane Library, with additional searches in Google Scholar and reference lists of included studies.</p>\n                    <p>\n                      Data extraction will follow a standardized approach, and study quality will be assessed using the Cochrane risk-of-bias tool-2. A Frequentist or Bayesian NMA framework will be used to compare safety profiles, with heterogeneity assessed using the I\n                      2\n                      test.\n                    </p>\n                  \n                  \n                    <strong>Discussion.</strong> \n                    <p>By addressing gaps in prior NMAs, this study aims to provide an in-depth evaluation of safety outcomes associated with different ChEI and memantine doses and formulations across various dementia types. The findings will support clinicians in making informed treatment decisions and guide future research and policy development for dementia management.</p>\n                  \n                  \n                    <strong>Systematic review registration.</strong> \n                    <p>PROSPERO (CRD42025642902).</p>"
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "HL-1124: Is Radiotherapy Still Needed in Bulky Advanced Hodgkin Lymphoma? A Systematic Review and Meta-Analysis",
@@ -140,9 +133,8 @@
       "v": "BMC Neurology",
       "doi": "10.1186/s12883-025-04291-5",
       "url": "",
-      "a": "AZ Alnajjar, MMM Mustafa, OK Abdelsalam, I Sharabati, AK Hassan, et al.",
-      "kind": "art",
-      "first": false
+      "a": "",
+      "kind": "art"
     },
     {
       "t": "543 Efficacy and Safety of Early Chest Tube Removal with High-Output Drainage Versus Routine Removal After Selective Pulmonary Resection: A Systematic Review and Meta-Analysis",
